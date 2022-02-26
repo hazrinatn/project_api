@@ -1,6 +1,6 @@
-# Project E-commerce API Documentation
+# Project E-commerce API
 
-This repository contains the documentation for [E-commerce](https://github.com/hazrinatn/project_api)’s API.
+This repository contains the full code and documentation for [E-commerce](https://github.com/hazrinatn/project_api)’s API.
 
 #### Contents
 
