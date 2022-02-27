@@ -153,7 +153,7 @@ Possible errors:
 | ---------------- | ------------------------------------------------------------------------------------- |
 | 401 Unauthorized | The `accessToken` is invalid, lacks the `listPublications` scope or has been revoked. |
 
-### 4. Architecture Diagram
+### 4. Architecture
 
 ![Architecture Diagram](./architecture_diagram.png "The architecture diagram of the app")
 
