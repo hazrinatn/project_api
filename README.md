@@ -10,7 +10,7 @@ This repository contains the full code and documentation for [E-commerce](https:
   - [Users](#31-users)
   - [Products](#32-products)
 - [Architecture Diagram](#4-architecture)
-- [Entity Relationship Diagram](#4-erd)
+- [Entity Relationship Diagram](#5-erd)
 
 ## 1. Overview
 
@@ -157,6 +157,6 @@ Possible errors:
 
 ![Architecture Diagram](./architecture_diagram.png "The architecture diagram of the app")
 
-### 5. Entity Relationship Diagram
+### 5. ERD
 
-![Entity Relationship Diagram](./ERD.png "The ERD of the app")
+![Entity Relationship Diagram](./ERD.png "The Entity Relationsip Diagram of the app")
